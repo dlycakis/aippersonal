@@ -2,8 +2,5 @@ Once upon a time
 There was a little git
 who pushed and pulled all day long
 And than added another line
-<<<<<<< HEAD
 until their heart was content
-=======
 that will cause a merge conflict
->>>>>>> 9f15f7e5540878b21dd5c268586d1e91c94d394d
