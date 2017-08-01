@@ -2,3 +2,4 @@ Once upon a time
 There was a little git
 Added Another line
 And than added another line
+that will cause a merge conflict
