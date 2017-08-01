@@ -1,5 +1,5 @@
 Once upon a time
 There was a little git
-Added Another line
+who pushed and pulled all day long
 And than added another line
 that will cause a merge conflict
